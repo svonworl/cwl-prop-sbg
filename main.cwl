@@ -1,4 +1,4 @@
-cwlVersion: draft-2
+cwlVersion: v1.0
 class: Workflow
 inputs:
 outputs:
